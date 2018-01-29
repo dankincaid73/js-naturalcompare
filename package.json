@@ -1,0 +1,15 @@
+{
+  "name": "natsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "natsort.js",
+  "dependencies": {
+    "string-natural-compare": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
